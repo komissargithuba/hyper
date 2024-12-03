@@ -8,6 +8,7 @@
   
 [![Node CI](https://github.com/vercel/hyper/workflows/Node%20CI/badge.svg?event=push)](https://github.com/vercel/hyper/actions?query=workflow%3A%22Node+CI%22+branch%3Acanary+event%3Apush)
 [![Changelog #213](https://img.shields.io/badge/changelog-%23213-lightgrey.svg)](https://changelog.com/213)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fkomissargithuba%2Fhyper.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fkomissargithuba%2Fhyper?ref=badge_shield)
 
 For more details, head to: https://hyper.is
 
@@ -114,3 +115,7 @@ If you have issues in the `codesign` step when running `yarn run dist` on macOS,
 - [Sample Extension](https://github.com/vercel/hyperpower)
 - [Sample Theme](https://github.com/vercel/hyperyellow)
 - [Awesome Hyper](https://github.com/bnb/awesome-hyper)
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fkomissargithuba%2Fhyper.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fkomissargithuba%2Fhyper?ref=badge_large)
